@@ -12,6 +12,7 @@
 		</IconStyle>
 		<PolyStyle>
 			<color>7fe17dff</color>
+			<outline>0</outline>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">
@@ -24,6 +25,7 @@
 		</IconStyle>
 		<PolyStyle>
 			<color>7fe17dff</color>
+			<outline>0</outline>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="m_ylw-pushpin">
