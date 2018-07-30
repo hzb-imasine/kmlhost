@@ -10,6 +10,9 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<LineStyle>
+			<color>7fe17dff</color>
+		</LineStyle>
 		<PolyStyle>
 			<color>7fe17dff</color>
 			<outline>0</outline>
@@ -23,6 +26,9 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<LineStyle>
+			<color>7fe17dff</color>
+		</LineStyle>
 		<PolyStyle>
 			<color>7fe17dff</color>
 			<outline>0</outline>
