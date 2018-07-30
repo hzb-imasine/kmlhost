@@ -22,6 +22,7 @@
 		</IconStyle>
 		<PolyStyle>
 			<color>7fffaa00</color>
+			<outline>0</outline>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">
@@ -34,6 +35,7 @@
 		</IconStyle>
 		<PolyStyle>
 			<color>7fffaa00</color>
+			<outline>0</outline>
 		</PolyStyle>
 	</Style>
 	<Folder>
